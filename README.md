@@ -13,5 +13,5 @@ $ npm install -g newman
 Put the files in a tasty directory. Here's the command to run.
 
 ```
-[demo@nimbusserver ~]$ newman run propane-15-1-66-45-beta.postman_collection.json -e propane.postman_environment.json --delay-request 1000 
+$ newman run propane-15-1-66-45-beta.postman_collection.json -e propane.postman_environment.json --delay-request 1000 
 ```
