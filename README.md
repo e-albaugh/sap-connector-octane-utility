@@ -1,5 +1,5 @@
 # propane
-*propane* is a demo data generator for ALM Octane. It is a single postman collection, leverages a single postman environment and runs via Newman. It is purpose built for nimbus, but can be extended to run against any Octane environment this side of the Mississippi.
+*propane* is a demo data generator for ALM Octane. It is a single postman collection, leveraging a single postman environment, run via Newman. It is purpose built for nimbus, but can be extended to run against any Octane environment this side of the Mississippi.
 
 ## install newman
 You can [download and install](https://nodejs.org/en/download/current/) Node.js on Linux, Windows, and Mac OSX. After you install Node.js, Newman is just a command away. Install Newman from npm globally on your system, which allows you to run it from anywhere.
