@@ -13,9 +13,11 @@ Put the files in a tasty directory. Run it like a gas grill.
 
 ```
 $ newman run propane-15-1-66-45-beta.postman_collection.json -e propane.postman_environment.json --delay-request 1000 
-```
 
-```
+...
+...
+...
+
 ===================================================================
                               executed |                   failed |
 -------------------------------------------------------------------
