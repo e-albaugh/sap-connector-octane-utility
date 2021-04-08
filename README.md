@@ -12,7 +12,7 @@ $ npm install -g newman
 Put the files in a tasty directory. Run it like a gas grill.
 
 ```
-$ newman run propane-15-1-66-45-beta.postman_collection.json -e propane.postman_environment.json --delay-request 1000 
+$ newman run propane.postman_collection.json -e propane.postman_environment.json --delay-request 1000 
 
 ...
 ...
@@ -23,18 +23,18 @@ $ newman run propane-15-1-66-45-beta.postman_collection.json -e propane.postman_
 -------------------------------------------------------------------
           iterations |               1 |                        0 |
 -------------------------------------------------------------------
-            requests |             212 |                        0 |
+            requests |             251 |                        0 |
 -------------------------------------------------------------------
-        test-scripts |             192 |                        0 |
+        test-scripts |             231 |                        0 |
 -------------------------------------------------------------------
-  prerequest-scripts |             176 |                        0 |
+  prerequest-scripts |             177 |                        0 |
 -------------------------------------------------------------------
           assertions |               0 |                        0 |
 -------------------------------------------------------------------
-total run duration: 5m 53.3s                                      |
+total run duration: 9m 35s                                        |
 -------------------------------------------------------------------
-total data received: 2.58MB (approx)                              | 
+total data received: 6.57MB (approx)                              | 
 -------------------------------------------------------------------
-average response time: 637ms [min:32ms, max: 1m 1.9s, s.d.: 4.4s] |
+average response time: 657ms [min:32ms, max: 1m 1.9s, s.d.: 4.4s] |
 ===================================================================
 ```
