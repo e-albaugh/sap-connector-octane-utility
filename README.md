@@ -9,7 +9,7 @@ $ npm install -g newman
 ```
 
 ## customize to your environment
-Ensure the values (baseUrl, port, ssid, wsid, etc.) in the [sap-connector-octane-utility](https://github.com/e-albaugh/sap-connector-octane-utility/blob/main/sap-connector-octane-utility.postman_environment.json) are filled out according to your environment. The utility will not work if you do not do this. 
+Ensure the values (baseUrl, port, ssid, wsid, etc.) in the [sap-connector-octane-utility.postman_environment.json](https://github.com/e-albaugh/sap-connector-octane-utility/blob/main/sap-connector-octane-utility.postman_environment.json) are filled out according to your environment. The utility will not work if you do not do this. 
 
 ## use me
 Put the files in a tasty directory. Run it like a gas grill.
